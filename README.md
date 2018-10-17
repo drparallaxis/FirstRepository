@@ -1,2 +1,2 @@
-# FirstRepository
+# ThGrph
 About...
