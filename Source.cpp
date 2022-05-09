@@ -21,7 +21,7 @@ public:
 		//Структура с информацией о координатах направляющего вектора
 		struct coordinatesDirectVector 
 		{
-			double x, y, z;
+			double x, y, z; 
 		};
 		int id;
 		int IDFloatNumber1, IDFloatNumber2; // для идентификации присвоенных вершин, чтобы в дальнейшем упростить поиск конкретного ребра
